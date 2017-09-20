@@ -1,4 +1,1 @@
-This folder contains a source code solution for the market exercise found 
-here (https://gist.github.com/joshkeys/24733109a23ef3b90463cc1c46f3238a) in c++. It was developed in an online IDE so testing
-was limited to the test cases given on the exercise page plus some additional cases to test mathematical accuracy. There are
-plans for more robust testing once I run the solution in a desktop version IDE.
+This folder contains a source code solution for the market exercise found here (https://gist.github.com/joshkeys/24733109a23ef3b90463cc1c46f3238a) in c++. It was developed in an online IDE (http://cpp.sh/) so testing and edge cases were limited due to IDE crashing. Tested cases include those on the exercise page plus some additional cases to test mathematical accuracy. There are plans for more robust testing once I run the solution in a desktop version IDE.
